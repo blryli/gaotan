@@ -1,1 +1,1 @@
-# http://blryli.cn/gaotan/
+# https://blryli.github.io/gaotan/
